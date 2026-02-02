@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://gentingcasino-blackpool.com/
+Sitemap: https://gentingcasino-blackpool.com/sitemap.xml
